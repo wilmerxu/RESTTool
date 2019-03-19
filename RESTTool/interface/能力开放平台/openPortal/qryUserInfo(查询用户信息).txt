@@ -1,0 +1,3 @@
+<FILE_VERSON>1.1.0.17</FILE_VERSON>
+<REST_PATH>OpenEbus/httpService/UserService?access_token=[%ACCESS_TOKEN%]&method=qryUserInfo&format=json</REST_PATH>
+<REST_PARAM>{TELNUM="13560519552"}</REST_PARAM>

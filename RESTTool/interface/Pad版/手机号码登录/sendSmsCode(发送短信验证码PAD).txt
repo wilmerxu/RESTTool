@@ -1,0 +1,9 @@
+<FILE_VERSON>1.0.0.15</FILE_VERSON>
+<REST_PATH>gdbes/u-route/loginService/sendSmsCode</REST_PATH>
+<REST_PARAM>{
+ "req": {
+  "region": "200",
+  "loginId": "13777099981",
+  "type": 1
+ }
+}</REST_PARAM>

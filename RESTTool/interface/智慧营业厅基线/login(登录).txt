@@ -1,0 +1,3 @@
+<FILE_VERSON>1.1.0.15</FILE_VERSON>
+<REST_PATH>gdbes/u-route/soa/sm/v1/loginsoaservice/login</REST_PATH>
+<REST_PARAM>"req":{"operId":"ZJDS001","password":"1","macAddr":"XXX"}</REST_PARAM>

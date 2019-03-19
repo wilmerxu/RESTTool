@@ -1,0 +1,7 @@
+<FILE_VERSON>1.0.0.15</FILE_VERSON>
+<REST_PATH>gdbes/u-route/common/V1/commonHaveRight/prmHaveRight</REST_PATH>
+<REST_PARAM>{
+ "req": {
+  "rightId": "GrpServAttrViewChgRight"
+ }
+}</REST_PARAM>

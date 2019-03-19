@@ -1,0 +1,6 @@
+<FILE_VERSON>1.0.0.13</FILE_VERSON>
+<REST_PATH>/face/basic/manage_in_repo/delete_image</REST_PATH>
+<REST_PARAM>{
+ "userinfo": {},
+ "user_id": "123"
+}</REST_PARAM>

@@ -1,0 +1,4 @@
+<FILE_VERSON>1.1.0.15</FILE_VERSON>
+<REST_PATH>gdbes/u-route/soa/offer/v1/queryprodinfosoaservice/queryTariffPlanList</REST_PATH>
+<REST_PARAM>"req":{"key":"value"}
+</REST_PARAM>

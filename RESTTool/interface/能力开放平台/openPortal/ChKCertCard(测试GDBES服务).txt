@@ -1,0 +1,10 @@
+<FILE_VERSON>1.1.0.17</FILE_VERSON>
+<REST_PATH>OpenEbus/httpService/UserService?access_token=[%ACCESS_TOKEN%]&method=ChKCertCard</REST_PATH>
+<REST_PARAM>{"req": {
+  "loginId": "xwm",
+  "password": "1",
+  "type": 0,
+  "smsCode": "123",
+  "prodIds":["123","456"]
+ }
+}</REST_PARAM>

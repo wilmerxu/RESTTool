@@ -1,0 +1,7 @@
+<FILE_VERSON>1.0.0.15</FILE_VERSON>
+<REST_PATH>gdbes/u-route/common/V1/commondictitems/getDictItemsByGroupID</REST_PATH>
+<REST_PARAM>{
+ "req": {
+  "groupId": "\"otherPlatform\""
+ }
+}</REST_PARAM>
